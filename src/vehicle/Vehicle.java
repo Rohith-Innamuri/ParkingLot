@@ -1,4 +1,4 @@
-package Vehicle;
+package vehicle;
 
 public abstract class Vehicle {
     protected String licensePlate;
